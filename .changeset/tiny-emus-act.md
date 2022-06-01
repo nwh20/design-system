@@ -1,9 +1,9 @@
 ---
-"@acme/docs": major
-"@acme/core": major
-"@acme/tsconfig": major
-"@acme/utils": major
-"eslint-config-acme": major
+"@namwonheo/docs": major
+"@namwonheo/core": major
+"@namwonheo/tsconfig": major
+"@namwonheo/utils": major
+"eslint-config-namwonheo": major
 ---
 
 first release
